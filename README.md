@@ -20,5 +20,5 @@ Regular Expressions (re),
 
 ## Dataset
 
-MBTI Personality Type Dataset from Kaggle.
+MBTI personality Type Dataset from Kaggle.
 
