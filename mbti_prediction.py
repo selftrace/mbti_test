@@ -107,7 +107,7 @@ while True:
     if text.lower() == "quit":
         break
 
-    text = clean_text(text
+    text = clean_text(text)
 
     result = model.predict(vectorizer.transform([text]))[0]
 
